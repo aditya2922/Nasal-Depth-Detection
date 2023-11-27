@@ -60,7 +60,7 @@ To use this project, you need to download the `shape_predictor_68_face_landmarks
     Execute the Python script in a Python environment.
 
     ```bash
-    python nasal_depth_detection.py
+    python Final/nasal_depth_detection.py
     ```
 
 2. **Input Image:**
