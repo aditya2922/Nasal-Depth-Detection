@@ -30,7 +30,7 @@ The goal of this project is to assess nasal depth as a potential indicator of ma
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nasal-depth-detection.git
+   git clone https://github.com/aditya2922/nasal-depth-detection.git
    cd nasal-depth-detection
     ```
 
